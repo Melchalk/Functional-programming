@@ -1,0 +1,48 @@
+#createButton {
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#sortButton {
+    padding: 5px;
+    background-color: violet;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.tasks {
+    margin-top: 20px;
+}
+
+.task {
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.done-button {
+    padding: 5px 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.delete-button {
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
