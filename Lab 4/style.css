@@ -1,0 +1,46 @@
+.text-expression{
+    border: 1px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+
+.operation-button{
+    flex-direction: column;
+    background-color: yellow;
+    border: none;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.number-button{
+    flex-direction: column;
+    background-color: ghostwhite;
+    border: none;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.equals-button{
+    flex-direction: column;
+    background-color: gainsboro;
+    border: none;
+    justify-content: center;
+    width: 105px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.clean-button{
+    flex-direction: column;
+    background-color: grey;
+    color: white;
+    border: none;
+    justify-content: center;
+    width: 105px;
+    height: 50px;
+    cursor: pointer;
+}
