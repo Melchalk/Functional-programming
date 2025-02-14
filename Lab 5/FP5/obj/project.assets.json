@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mel\\Downloads\\Functional programming\\Lab 5\\devops\\devops.fsproj",
-      "projectName": "devops",
-      "projectPath": "C:\\Users\\Mel\\Downloads\\Functional programming\\Lab 5\\devops\\devops.fsproj",
+      "projectUniqueName": "C:\\Users\\Mel\\Downloads\\Functional programming\\Lab 5\\FP5\\FP5.fsproj",
+      "projectName": "FP5",
+      "projectPath": "C:\\Users\\Mel\\Downloads\\Functional programming\\Lab 5\\FP5\\FP5.fsproj",
       "packagesPath": "C:\\Users\\Mel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mel\\Downloads\\Functional programming\\Lab 5\\devops\\obj\\",
+      "outputPath": "C:\\Users\\Mel\\Downloads\\Functional programming\\Lab 5\\FP5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
